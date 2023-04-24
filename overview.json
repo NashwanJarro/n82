@@ -15,7 +15,7 @@
 {"name": "Computer science?", "priority":1},
 {"name": "Big data?", "priority":1}]},
 {"name": "Stanford", "children":[
-{"name": "RNN course", "priority":1}]},
+{"name": "RNN course", "priority":255}]},
 {"name": "Big data university", "children":[
 {"name": "Scala and Spark", "priority":1},
 {"name": "Large Scale Analytics with R", "priority":1}]}]},
